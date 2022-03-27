@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.benny.com.ng/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Benny - Cloud Engineer'
 theme = 'hugo-coder'
 
 defaultContentLanguage = "en"
@@ -13,11 +13,11 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Emeka Obinwa"
+author = "Emeka Benny Obinwa"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Emeka Obinwa's personal website"
-keywords = "blog,developer,personal"
-info = ["Cloud Support Engineer", "Technical Support"]
+keywords = "blog,developer,personal,cloud,technical,support,devops"
+info = ["Cloud Support", "Technical Support", "Microsoft 365"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -161,32 +161,32 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
-[languages.pt-br]
-languageName = ":brazil:"
-title = "João Ninguém"
+# [languages.pt-br]
+# languageName = ":brazil:"
+# title = "João Ninguém"
 
-[languages.pt-br.params]
-author = "João Ninguém"
-info = "Full Stack DevOps e Mágico"
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
+# [languages.pt-br.params]
+# author = "João Ninguém"
+# info = "Full Stack DevOps e Mágico"
+# description = "Sítio pessoal de João Ninguém"
+# keywords = "blog,desenvolvedor,pessoal"
 
-[[languages.pt-br.menu.main]]
-name = "Sobre"
-weight = 1
-url = "about/"
+# [[languages.pt-br.menu.main]]
+# name = "Sobre"
+# weight = 1
+# url = "about/"
 
-[[languages.pt-br.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
+# [[languages.pt-br.menu.main]]
+# name = "Blog"
+# weight = 2
+# url = "posts/"
 
-[[languages.pt-br.menu.main]]
-name = "Projetos"
-weight = 3
-url = "projects/"
+# [[languages.pt-br.menu.main]]
+# name = "Projetos"
+# weight = 3
+# url = "projects/"
 
-[[languages.pt-br.menu.main]]
-name = "Contato"
-weight = 5
-url = "contact/"
+# [[languages.pt-br.menu.main]]
+# name = "Contato"
+# weight = 5
+# url = "contact/"
