@@ -133,6 +133,12 @@ icon = "fa fa-2x fa-medium"
 weight = 5
 url = "https://medium.com/@bennando"
 
+[[params.social]]
+name = "Email"
+icon = "fa fa-2x fa-envelope"
+weight = 5
+url = "mailto:emeka@benny.com.ng"
+
 # [[params.social]]
 # name = "RSS"
 # icon = "fa fa-2x fa-rss"
