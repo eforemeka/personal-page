@@ -1,6 +1,6 @@
 baseURL = 'http://www.benny.com.ng/'
 languageCode = 'en-us'
-title = 'Benny - Cloud Engineer'
+title = 'Benny - Azure(2x) | M365'
 theme = 'hugo-coder'
 
 defaultContentLanguage = "en"
