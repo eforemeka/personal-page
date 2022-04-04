@@ -14,7 +14,7 @@ I am very support-oriented with a real desire to help people fix their problems 
 
 I can offer well-developed skills in conceptualizing and implementing technological solutions across multiple OS platforms. I have been able to show time and again my ability to effectively handle up to L3 support cases for both onsite and remote teams while focusing on improving business processes and delivering the best end-user experience. 
 
-#### WHAT DO I SEEK?
+#### WHAT DO I *CURRENTLY* SEEK?
 
 Currently, I desire to explore and pivot a little from supporting just end-users and on-prem infrastructure to implementing, optimizing and supporting Saas products and solutions. I am open to taking on Remote Technical Support roles in the EMEA zone.
 
