@@ -15,3 +15,8 @@ What do I still benefit from having done this project? - I make updates to my re
 
 #### THIS HUGO WEBSITE
 
+I initially built this website on wordpress but wasn't very impressed with the speed with which it was serving up pages. I noticed that static html pages on my web host loaded much quicker than wordpress' php pages.
+
+I do not quite remember how I stumbled upon Hugo, a static web generator and world's fastest framework for building websites. These are not my words, it says exactly that on their [website](https://gohugo.io). But, it is true what they say, Hugo is fast, and quite easy to set up. 
+
+I published my Hugo site to Azure Static Web Apps, with GitHub as a repository, and I get to easily push updates from a local clone of my repo. Easy peasy :). You can learn how to do the same [here](https://docs.microsoft.com/en-us/azure/static-web-apps/publish-hugo).
