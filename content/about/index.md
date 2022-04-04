@@ -16,7 +16,7 @@ I can offer well-developed skills in conceptualizing and implementing technologi
 
 #### WHAT DO I *CURRENTLY* SEEK?
 
-Currently, I desire to explore and pivot a little from supporting just end-users and on-prem infrastructure to implementing, optimizing and supporting Saas products and solutions. I am open to taking on Remote Technical Support roles in the EMEA zone.
+Currently, I desire to explore and pivot a little from supporting just end-users and on-prem infrastructure to implementing, optimizing and supporting SaaS products and solutions. I am open to taking on Remote Technical Support roles in the EMEA zone.
 
 
 You can check out my [resume](https://resume.benny.com.ng) here to know more about my professional experience.
