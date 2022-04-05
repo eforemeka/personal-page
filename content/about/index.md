@@ -16,7 +16,7 @@ I can offer well-developed skills in conceptualizing and implementing technologi
 
 #### WHAT DO I *CURRENTLY* SEEK?
 
-Currently, I desire to explore and pivot a little from supporting just end-users and on-prem infrastructure to implementing, optimizing and supporting SaaS products and solutions. I am open to taking on Remote Technical Support roles in the EMEA zone.
+I desire to pivot a little from supporting end-users and on-prem infrastructure to building on my experience implementing, optimizing and supporting cloud-based infrastructure, products and solutions. If your products/solution can be worked on from anywhere in the world and caters to many users, I would like to work with you. I am open to Remote Technical Support/Remote Support Engineer/Cloud Engineer roles in the EMEA zone. I am open to offers that come with relocation packages too.
 
 
 You can check out my [resume](https://resume.benny.com.ng) here to know more about my professional experience.
