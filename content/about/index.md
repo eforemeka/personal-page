@@ -22,3 +22,5 @@ Currently, I desire to explore and pivot a little from supporting just end-users
 You can check out my [resume](https://resume.benny.com.ng) here to know more about my professional experience.
 
 Email me: hi@benny.com.ng
+
+I'll be writing about what I got done every week in a post and publish to this website every Sunday. My first post will be out on the 10th of April, 2022. Click on the "*WIGDTW*" menu to read.
