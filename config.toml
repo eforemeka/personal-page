@@ -173,6 +173,12 @@ weight = 3
 url = "projects/"
 target = "_blank"
 
+[[languages.en.menu.main]]
+name = "WIGDTW"
+weight = 4
+url = "wigdtw/"
+target = "_blank"
+
 # [[languages.en.menu.main]]
 # name = "Contact me"
 # weight = 5
