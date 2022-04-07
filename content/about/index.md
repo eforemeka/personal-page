@@ -16,11 +16,11 @@ I can offer well-developed skills in conceptualizing and implementing technologi
 
 #### WHAT DO I *CURRENTLY* SEEK?
 
-I desire to pivot a little from supporting end-users and on-prem infrastructure to building on my experience implementing, optimizing and supporting cloud-based infrastructure, products and solutions. If your products/solution can be worked on from anywhere in the world and caters to many users, I would like to work with you. I am open to Remote Technical Support/Remote Support Engineer/Cloud Engineer roles in the EMEA zone. I am open to offers that come with relocation packages too.
+I desire to pivot a little from supporting end-users and on-prem infrastructure to building on my experience implementing, optimizing and supporting cloud-based infrastructure, products and solutions. If members of your team can work from anywhere in the world, I would like to be part of your team. I am open to Remote Technical Support/Remote Support Engineer/Cloud Engineer roles in the EMEA zone. I am also open to discussing offers that come with relocation packages.
 
 
 You can check out my [resume](https://resume.benny.com.ng) here to know more about my professional experience.
 
 Email me: hi@benny.com.ng
 
-I'll be writing about what I got done every week in a post and publish to this website every Sunday. My first post will be out on the 10th of April, 2022. Click on the "*WIGDTW*" menu to read.
+I'll be writing about what I got done each week and publish to this website every Sunday in a post. The first post will be out on the 10th of April, 2022. Click on the "*WIGDTW*" menu to read.
