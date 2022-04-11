@@ -10,7 +10,7 @@ I took part in The Cloud Resume Challenge to build and host a copy of my [resume
 
 Here, I used and learned about Azure Functions, Azure Cosmos DB, Azure Storage Account and GitHub Actions.
 
-What do I benefit from having done this project? - I make updates to my resume locally and deploy without having to login to my GitHub or Azure accounts. CI/CD at it's finest! :)
+What do I benefit from having done this project? - I make updates to my resume locally and deploy without having to log in to my GitHub or Azure accounts. CI/CD at it's finest! :)
 
 
 #### THIS HUGO WEBSITE
