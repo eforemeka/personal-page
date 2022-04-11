@@ -31,6 +31,7 @@ I drafted a study timetable for skills I need to firm up on within the next 2 we
 * *Einmal* - Once
 
 ## TV Series I saw
+These are the TV shows I currently follow:
 * The Good Doctor S05 E13
 * Moon Knight S01 E02
 * Killing Eve S04 E08
