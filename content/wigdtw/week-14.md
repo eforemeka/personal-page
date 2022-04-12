@@ -30,7 +30,7 @@ I drafted a study timetable for skills I need to firm up on within the next 2 we
 * *Spaß machen* - Have fun
 * *Einmal* - Once
 
-## TV Series I saw
+## TV Series
 These are the TV shows I currently follow:
 * The Good Doctor S05 E13
 * Moon Knight S01 E02
