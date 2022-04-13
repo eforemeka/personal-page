@@ -1,6 +1,6 @@
 ---
 title: "Week 15"
-date: 2022-04-16T00:08:46+01:00
+date: 2022-04-12T00:08:46+01:00
 draft: true
 ---
 My update for the week ending on 16th April, 2022.
@@ -27,4 +27,4 @@ I am currently reading UNIX AND LINUX SYSTEM ADMINISTRATION HANDBOOK, Fifth Edit
 ## TV Series
 These are the TV shows I currently follow:
 * The Good Doctor S05 E13
-* Moon Knight S01 E03 - Khunshoo speaking through his Avatar cracked me up. Oscar Isaac is a good actor.
+* Moon Knight S01 E03 - Khunshu speaking through his Avatar cracked me up. Oscar Isaac is a good actor.
