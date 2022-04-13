@@ -22,8 +22,8 @@ Another ex-coworker reached out. He wanted to know what anti-virus his daughter 
 I drafted a study timetable for skills I need to firm up on within the next 2 weeks. I will write about a few new things I learn along the way. So expect something about REST APIs and SQL next week and the week after.
 
 ## Applications
-* Took the most intense assessment test I've taken in a while. Lasted almost two hours. Enjoyed it.
-* Built a portfolio using Webflow. Created a special subdomain and pointed it to my portfolio's URL. i hope someone from Webflow likes it.
+* I took the most intense assessment test I have taken in a while. It lasted almost two hours and I enjoyed it.
+* Built a portfolio using Webflow. Created a special subdomain and pointed it to my portfolio's URL. I hope someone from Webflow likes it.
 
 ## New German words/phrases I learned on Duolingo
 * *Spaß* - Fun

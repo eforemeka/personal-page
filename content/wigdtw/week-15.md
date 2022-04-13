@@ -14,6 +14,17 @@ Mr. D's friend reached out because his friend needed to reinstall windows on the
 
 ## New German words/phrases I learned on Duolingo
 * *Weiß* - Know
+* *Nacht* - Night
+* *Nächte* - Nights
+* *Hell* - Bright ( I find this one particularly funny because 'bright as hell' loool
+* *Einzelzimmer* - Single room
+* *Doppelzimmer* - You guessed it, Double room)
+* ![The German Sentence Structure cracks me up](/static/images/einzelzimmer.jpg)
 
 ## Books
 I am currently reading UNIX AND LINUX SYSTEM ADMINISTRATION HANDBOOK, Fifth Edition by Trent R. Hein, Evi Nemeth, Garth Snyder, Ben Whaley, Dan Mackin.
+
+## TV Series
+These are the TV shows I currently follow:
+* The Good Doctor S05 E13
+* Moon Knight S01 E03 - Khunshoo speaking through his Avatar cracked me up. Oscar Isaac is a good actor.
