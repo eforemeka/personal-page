@@ -1,7 +1,7 @@
 ---
 title: "Week 15"
 date: 2022-04-12T00:08:46+01:00
-draft: true
+draft: false
 ---
 My update for the week ending on 16th April, 2022.
 
@@ -19,7 +19,8 @@ Mr. D's friend reached out because his friend needed to reinstall windows on the
 * *Hell* - Bright ( I find this one particularly funny because 'bright as hell' loool
 * *Einzelzimmer* - Single room
 * *Doppelzimmer* - You guessed it, Double room)
-* ![The German Sentence Structure cracks me up](/static/images/einzelzimmer.jpg)
+* *Ich freue mich* - I look forward to it.
+<!-- * ![The German Sentence Structure stresses me out lol](/static/images/einzelzimmer.jpg) -->
 
 ## Books
 I am currently reading UNIX AND LINUX SYSTEM ADMINISTRATION HANDBOOK, Fifth Edition by Trent R. Hein, Evi Nemeth, Garth Snyder, Ben Whaley, Dan Mackin.
@@ -27,4 +28,7 @@ I am currently reading UNIX AND LINUX SYSTEM ADMINISTRATION HANDBOOK, Fifth Edit
 ## TV Series
 These are the TV shows I currently follow:
 * The Good Doctor S05 E13
-* Moon Knight S01 E03 - Khunshu speaking through his Avatar cracked me up. Oscar Isaac is a good actor.
+* Moon Knight S01 E03 - Steven as Moon Knight is both hilarious and annoying.
+
+## Miscellaneous
+W brought me her laptop to upgrade to Windows 11! I was so happy to see her and even happier to get her laptop upgraded. I love the Windows 11.
