@@ -12,6 +12,8 @@ I'll start referring to them by their initials so that I stop using 'someone' lo
 
 Mr. D's friend reached out because his friend needed to reinstall windows on their computer. I wasn't closeby and would not have been able to help out so I referred him to someone else.
 
+W brought me her laptop to upgrade to Windows 11! I was so happy to see her and even happier to get her laptop upgraded. I love the Windows 11 interface.
+
 ## New German words/phrases I learned on Duolingo
 * *Weiß* - Know
 * *Nacht* - Night
@@ -28,7 +30,10 @@ I am currently reading UNIX AND LINUX SYSTEM ADMINISTRATION HANDBOOK, Fifth Edit
 ## TV Series
 These are the TV shows I currently follow:
 * The Good Doctor S05 E13
-* Moon Knight S01 E03 - Steven as Mr. Knight is both hilarious and annoying.
+* Moon Knight S01 E03 - Steven as Mr. Knight is both hilarious and annoying. The Jake Lockley teaser.
+
+## Applications
+* Got in to the HOPLA Talent Pool so that's a plus.
+* Seminar with Support Adventure went well. I have an OFfice365 test to finish up in 72 hours.
 
 ## Miscellaneous
-W brought me her laptop to upgrade to Windows 11! I was so happy to see her and even happier to get her laptop upgraded. I love the Windows 11 interface.

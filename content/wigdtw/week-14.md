@@ -23,7 +23,7 @@ I drafted a study timetable for skills I need to firm up on within the next 2 we
 
 ## Applications
 * I took the most intense assessment test I have taken in a while. It lasted almost two hours and I enjoyed it.
-* Built a portfolio using Webflow. Created a special subdomain and pointed it to my portfolio's URL. I hope someone from Webflow likes it.
+* Built a portfolio using Webflow. Created a unique subdomain and pointed it to my portfolio's URL. I hope someone from Webflow likes it.
 
 ## New German words/phrases I learned on Duolingo
 * *Spaß* - Fun
