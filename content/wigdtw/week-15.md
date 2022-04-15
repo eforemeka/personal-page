@@ -28,7 +28,7 @@ I am currently reading UNIX AND LINUX SYSTEM ADMINISTRATION HANDBOOK, Fifth Edit
 ## TV Series
 These are the TV shows I currently follow:
 * The Good Doctor S05 E13
-* Moon Knight S01 E03 - Steven as Moon Knight is both hilarious and annoying.
+* Moon Knight S01 E03 - Steven as Mr. Knight is both hilarious and annoying.
 
 ## Miscellaneous
-W brought me her laptop to upgrade to Windows 11! I was so happy to see her and even happier to get her laptop upgraded. I love the Windows 11.
+W brought me her laptop to upgrade to Windows 11! I was so happy to see her and even happier to get her laptop upgraded. I love the Windows 11 interface.
