@@ -37,7 +37,7 @@ These are the TV shows I currently follow:
 * Moon Knight S01 E03 - Steven as Mr. Knight is both hilarious and annoying. Did you notice the Jake Lockley teaser.
 
 ## Applications
-* Got in to the HOPLA Talent Pool so that's a plus.
+* Got into the HOPLA Talent Pool so that's a plus.
 * Seminar with Support Adventure went well. I was given an OFfice365 test to finish within 72 hours.
 
 ## Website Management
