@@ -1,6 +1,6 @@
 ---
 title: "Week 15"
-date: 2022-04-12T00:08:46+01:00
+date: 2022-04-16T00:08:46+01:00
 draft: false
 ---
 My update for the week ending on 16th April, 2022.
@@ -26,8 +26,6 @@ W brought me her laptop to upgrade to Windows 11! I was so happy to see her and 
 * *Gute Besserung* - Feel better.
 * *Nehmen* - To take.
 
-
-
 <!-- * ![The German Sentence Structure stresses me out lol](/static/images/einzelzimmer.jpg) -->
 
 ## Books
@@ -36,10 +34,17 @@ I am currently reading UNIX AND LINUX SYSTEM ADMINISTRATION HANDBOOK, Fifth Edit
 ## TV Series
 These are the TV shows I currently follow:
 * The Good Doctor S05 E13
-* Moon Knight S01 E03 - Steven as Mr. Knight is both hilarious and annoying. The Jake Lockley teaser.
+* Moon Knight S01 E03 - Steven as Mr. Knight is both hilarious and annoying. Did you notice the Jake Lockley teaser.
 
 ## Applications
 * Got in to the HOPLA Talent Pool so that's a plus.
-* Seminar with Support Adventure went well. I have an OFfice365 test to finish up in 72 hours.
+* Seminar with Support Adventure went well. I was given an OFfice365 test to finish within 72 hours.
 
-## Miscellaneous
+## Website Management
+It was brought to my notice that two of the WordPress websites I had previously configured for clients were giving critical error notices and not loading.
+
+I suspected they were both having the same technical issue so I logged into one of them in WordPress Recovery Mode. I immediately spotted what the problem was on the dashboard. The WooCommerce plugin was unable to work on PHP Version 5.xx(currently running on the server) and needed version 7.xx or higher.
+
+I logged into the cpanel and set the PHP version to 7.4, the newest as at the time of writing this.
+
+Problem Solved!
