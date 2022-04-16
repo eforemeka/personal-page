@@ -33,7 +33,7 @@ I am currently reading UNIX AND LINUX SYSTEM ADMINISTRATION HANDBOOK, Fifth Edit
 
 ## TV Series
 These are the TV shows I currently follow:
-* The Good Doctor S05 E13
+* The Good Doctor S05 E14
 * Moon Knight S01 E03 - Steven as Mr. Knight is both hilarious and annoying. Did you notice the Jake Lockley teaser.
 
 ## Applications
@@ -43,7 +43,7 @@ These are the TV shows I currently follow:
 ## Website Management
 It was brought to my notice that two of the WordPress websites I had previously configured for clients were giving critical error notices and not loading.
 
-I suspected they were both having the same technical issue so I logged into one of them in WordPress Recovery Mode. I immediately spotted what the problem was on the dashboard. The WooCommerce plugin was unable to work on PHP Version 5.xx(currently running on the server) and needed version 7.xx or higher.
+I suspected they were both having the same technical issue so I logged into one of them in WordPress Recovery Mode. I immediately spotted what the problem was on the dashboard. The WooCommerce plugin was unable to work on PHP Version 5.xx(currently running on the server and needed version 7.xx or higher.
 
 I logged into the cpanel and set the PHP version to 7.4, the newest as at the time of writing this.
 

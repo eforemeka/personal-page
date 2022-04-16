@@ -34,4 +34,4 @@ I drafted a study timetable for skills I need to firm up on within the next 2 we
 These are the TV shows I currently follow:
 * The Good Doctor S05 E13
 * Moon Knight S01 E02
-* Killing Eve S04 E08
+* Killing Eve S04 E08 - Series Finale, I did not like the way this ended.
