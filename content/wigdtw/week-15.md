@@ -22,6 +22,12 @@ W brought me her laptop to upgrade to Windows 11! I was so happy to see her and 
 * *Einzelzimmer* - Single room
 * *Doppelzimmer* - You guessed it, Double room)
 * *Ich freue mich* - I look forward to it.
+* *Schlüssel* - Key.
+* *Gute Besserung* - Feel better.
+* *Nehmen* - To take.
+
+
+
 <!-- * ![The German Sentence Structure stresses me out lol](/static/images/einzelzimmer.jpg) -->
 
 ## Books
