@@ -12,7 +12,7 @@ I'll start referring to them by their initials so that I stop using 'someone' lo
 
 Mr. D's friend reached out because his friend needed to reinstall windows on their computer. I wasn't closeby and would not have been able to help out so I referred him to someone else.
 
-W brought me her laptop to upgrade to Windows 11! I was so happy to see her and even happier to get her laptop upgraded. I love the Windows 11 interface.
+W brought me her laptop to upgrade to Windows 11! I was happy to see her and even happier to do the upgrade. I love the Windows 11 interface btw.
 
 ## New German words/phrases I learned on Duolingo
 * *Weiß* - Know
