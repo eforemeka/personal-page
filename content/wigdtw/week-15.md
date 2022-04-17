@@ -26,7 +26,7 @@ W brought me her laptop to upgrade to Windows 11! I was happy to see her and eve
 * *Gute Besserung* - Feel better.
 * *Nehmen* - To take.
 
-![The German Sentence Structure stresses me out lol](/static/images/einzelzimmer.jpg)
+![The German Sentence Structure stresses me out lol](/images/einzelzimmer.jpg)
 
 ## Books
 I am currently reading UNIX AND LINUX SYSTEM ADMINISTRATION HANDBOOK, Fifth Edition by Trent R. Hein, Evi Nemeth, Garth Snyder, Ben Whaley, Dan Mackin.
