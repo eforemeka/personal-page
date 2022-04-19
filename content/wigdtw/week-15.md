@@ -5,7 +5,7 @@ draft: false
 ---
 My update for the week ending on 16th April, 2022.
 
-## Ghosts of Co-Workers Past
+### Ghosts of Co-Workers Past
 Let me just state here that getting contacted by people I have worked with in the past happens a lot more than I would like to admit lol. But I like it. I like that when people think about who to run to with their IT problems, however little, they think about me.
 
 I'll start referring to them by their initials so that I stop using 'someone' lol.
@@ -14,7 +14,7 @@ Mr. D's friend reached out because his friend needed to reinstall windows on the
 
 W brought me her laptop to upgrade to Windows 11! I was happy to see her and even happier to do the upgrade. I love the Windows 11 interface btw.
 
-## New German words/phrases I learned on Duolingo
+### New German words/phrases I learned on Duolingo
 * *Weiß* - Know
 * *Nacht* - Night
 * *Nächte* - Nights
@@ -26,21 +26,19 @@ W brought me her laptop to upgrade to Windows 11! I was happy to see her and eve
 * *Gute Besserung* - Feel better.
 * *Nehmen* - To take.
 
-<!-- * ![The German Sentence Structure stresses me out lol](/static/images/einzelzimmer.jpg) -->
-
-## Books
+### Books
 I am currently reading UNIX AND LINUX SYSTEM ADMINISTRATION HANDBOOK, Fifth Edition by Trent R. Hein, Evi Nemeth, Garth Snyder, Ben Whaley, Dan Mackin.
 
-## TV Series
+### TV Series
 These are the TV shows I currently follow:
 * The Good Doctor S05 E14
 * Moon Knight S01 E03 - Steven as Mr. Knight is both hilarious and annoying. Did you notice the Jake Lockley teaser.
 
-## Applications
+### Applications
 * Got into the HOPLA Talent Pool so that's a plus.
 * Seminar with Support Adventure went well. I was given an OFfice365 test to finish within 72 hours.
 
-## Website Management
+### Website Management
 It was brought to my notice that two of the WordPress websites I had previously configured for clients were giving critical error notices and not loading.
 
 I suspected they were both having the same technical issue so I logged into one of them in WordPress Recovery Mode. I immediately spotted what the problem was on the dashboard. The WooCommerce plugin was unable to work on PHP Version 5.xx(currently running on the server and needed version 7.xx or higher.
@@ -48,3 +46,5 @@ I suspected they were both having the same technical issue so I logged into one 
 I logged into the cpanel and set the PHP version to 7.4, the newest as at the time of writing this.
 
 Problem Solved!
+
+![The German Sentence Structure stresses me out lol](/images/einzelzimmer.jpg)
