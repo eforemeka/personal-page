@@ -10,7 +10,7 @@ Let me just state here that getting contacted by people I have worked with in th
 
 I'll start referring to them by their initials so that I stop using 'someone' lol.
 
-Mr. D's friend reached out because his friend needed to reinstall windows on their computer. I wasn't closeby and would not have been able to help out so I referred him to someone else.
+Mr. D reached out because his friend needed to reinstall windows on their computer. I wasn't close-by and would not have been able to help out so I referred him to someone else.
 
 W brought me her laptop to upgrade to Windows 11! I was happy to see her and even happier to do the upgrade. I love the Windows 11 interface btw.
 
