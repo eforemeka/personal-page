@@ -9,24 +9,14 @@ My update for the week ending on 23rd April, 2022.
 I decided to change the Hugo theme I was using to something better.
 
 ### Ghosts of Co-Workers Past
-Mr. K reached out again for what would be the third time in 4 weeks. He wanted some help with something about his gmail account. The details are too confidential to share so I'd just leave it at that.
+Mr. K reached out again for what would be the third time in 4 weeks. He wanted some help with his gmail account. The details are too confidential to share so I'd just leave it at that.
 
 ### New German words/phrases I learned on Duolingo
 * *Beamter/Beamtin* - Civil Servant
 * *Zufrieden* - Content
 * *Geschichte* - History
 * *Hässlich* - Ugly
-* *Einzelzimmer* - Single room
-* *Doppelzimmer* - You guessed it, Double room
-* *Ich freue mich* - I look forward to it.
-* *Schlüssel* - Key.
-* *Gute Besserung* - Feel better.
-* *Nehmen* - To take.
-
-### Random knowledge I acquired during the week
-I have decided to add a new section for totally random and interesting things I learned about or came across during the week
-* *Circadian Rhythm* -
-* *Do doctors scream STAT! the way they do in The Good Doctor?* -
+* *Auch* - Also
 
 ### TV Series
 These are the TV shows I currently follow:
