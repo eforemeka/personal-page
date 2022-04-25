@@ -26,6 +26,8 @@ W brought me her laptop to upgrade to Windows 11! I was happy to see her and eve
 * *Gute Besserung* - Feel better.
 * *Nehmen* - To take.
 
+![The German Sentence Structure stresses me out lol](/images/einzelzimmer.jpg)
+
 ### Books
 I am currently reading UNIX AND LINUX SYSTEM ADMINISTRATION HANDBOOK, Fifth Edition by Trent R. Hein, Evi Nemeth, Garth Snyder, Ben Whaley, Dan Mackin.
 
@@ -46,5 +48,3 @@ I suspected they were both having the same technical issue so I logged into one 
 I logged into the cpanel and set the PHP version to 7.4, the newest as at the time of writing this.
 
 Problem Solved!
-
-![The German Sentence Structure stresses me out lol](/images/einzelzimmer.jpg)
