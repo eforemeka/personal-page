@@ -405,13 +405,13 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        GitHub = "https://github.com/eforemeka/"
-        Linkedin = "https://www.linkedin.com/in/benny-emeka/"
-        Twitter = "https://twitter.com/eforemeka/"
+        GitHub = "eforemeka"
+        Linkedin = "benny-emeka"
+        Twitter = "eforemeka"
         Instagram = ""
         Facebook = ""
         Telegram = ""
-        Medium = "https://medium.com/@bennando"
+        Medium = "@bennando"
         Gitlab = ""
         Youtubelegacy = ""
         Youtubecustom = ""
