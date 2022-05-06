@@ -9,4 +9,4 @@ My update for the week ending on 7th May, 2022.
 I did not make a lot of changes to my page last week because I was quite occupied with other things. This week, I will be including my favicon and translating my About page.
 
 ### Marvel
-I saw Doctor Strange: Multiverse of Madness at the cinema.
+I saw Doctor Strange: Multiverse of Madness at the cinema and it was really good.
