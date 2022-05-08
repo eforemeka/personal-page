@@ -7,3 +7,6 @@ My update for the week ending on 7th May, 2022.
 
 ### Personal Website
 I did not make a lot of changes to my page last week because I was quite occupied with other things. This week, I will be including my favicon and translating my About page.
+
+### Ghosts of Co-Workers Past
+Mr. D called. They need to resolve something that the current IT head is struggling with. It must have gotten so critical he had to reach out. I already sent a YouTube link for the IT head to follow but that didn't help.
