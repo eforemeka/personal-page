@@ -15,6 +15,6 @@ Mr. D called. They need to resolve something that the current IT head is struggl
 * *Schildkroete* - Turtle
 * *Geschwister* - Siblings
 * *Kartoffelsalat* - Potato Salad
-* *Schildkroete* - Turtle
+* *Gemeuse* - Vegetables
 * *Geschwister* - Siblings
 * *Freizeit* - Free time
