@@ -945,14 +945,14 @@ enableEmoji = true
         title = ""
         weight = 3
 
-      [[languages.de.menu.main]]
-        identifier = "wigdtw"
-        pre = ""
-        post = ""
-        name = "WIGDTW"
-        url = "/wigdtw/"
-        title = ""
-        weight = 4
+      # [[languages.de.menu.main]]
+      #   identifier = "wigdtw"
+      #   pre = ""
+      #   post = ""
+      #   name = "WIGDTW"
+      #   url = "/wigdtw/"
+      #   title = ""
+      #   weight = 4
       # [[languages.en.menu.main]]
       #   identifier = "github"
       #   pre = "<i class='fab fa-github fa-fw'></i>"
