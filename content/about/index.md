@@ -12,7 +12,7 @@ I am support-oriented with a genuine desire to fix problems and improve processe
 
 #### WHAT CAN I OFFER?
 
-I can offer well-developed skills in conceptualizing and implementing enterprise solutions and have also been able to show time and again my ability to effectively handle up to L3 support cases for both onsite and remote teams while focusing on improving business processes and delivering the best end-user experiences. 
+I can offer well-developed skills in conceptualizing and implementing enterprise solutions and have also been able to show time and again my ability to effectively handle up to L3 support cases for both onsite and remote teams, while focusing on improving business processes and delivering the best end-user experiences. 
 
 <!-- #### WHAT DO I *CURRENTLY* SEEK?
 
