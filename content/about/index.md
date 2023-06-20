@@ -6,13 +6,13 @@ draft: false
 
 #### WHO AM I??
 
-Hi! I'm Benny and I am a Technical Support Specialist and Project Manager with over eight years of experience and expertise in technical support, wed development, IT infrastructure management and project delivery.
+Hello there! My name is Benny, and I bring over eight years of experience as a Technical Support Specialist and Project Manager. Throughout my career, I have developed strong skill sets in technical support, web development, IT infrastructure administration, and project management.
 
-I am support-oriented with a genuine desire to fix problems and improve processes. I also enjoy the satisfaction that comes with 'demystifying a puzzle'. These traits, coupled with my technical abilities, make me an excellent troubleshooter and problem-solver.
+One of my standout qualities is my customer-centric approach. I have a genuine desire to solve problems and enhance processes, always striving to provide the best support possible. I find great satisfaction in unraveling complex puzzles and demystifying technical challenges. This combination of traits, coupled with my technical expertise, positions me as an exceptional troubleshooter and problem-solver.
 
 #### WHAT CAN I OFFER?
 
-I can offer well-developed skills in conceptualizing and implementing enterprise solutions and have also been able to show time and again my ability to effectively handle up to L3 support cases for both onsite and remote teams, while focusing on improving business processes and delivering the best end-user experiences. 
+I possess well-honed abilities in conceptualizing and implementing enterprise solutions, consistently demonstrating my expertise in handling L3 support cases for both onsite and remote teams. Throughout my experience, I have remained dedicated to enhancing business processes and delivering top-notch end-user experiences. 
 
 <!-- #### WHAT DO I *CURRENTLY* SEEK?
 
