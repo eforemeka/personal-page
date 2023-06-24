@@ -11,7 +11,11 @@ on:
 
 env:
   PRE_BUILD_COMMAND: git config --global --add safe.directory /github/workspace
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> ad4a751233555cd5b56de6ed32dd3cfd30b2e22b
 jobs:
   build_and_deploy_job:
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
