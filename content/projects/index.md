@@ -10,7 +10,7 @@ I took part in The Cloud Resume Challenge to build and host a copy of my [resume
 
 On this project, I used and learned about Azure Functions, Azure Cosmos DB, Azure Storage Account and GitHub Actions.
 
-Because of this, I now make updates to my resume locally and push to production without having to log in to my GitHub or Azure accounts on any browser. CI/CD at it's finest! :)
+Because of this, I now make updates to my resume locally and push to production without having to log in to my GitHub or Azure accounts on any browser. CI/CD at it's finest!
 
 
 #### THIS HUGO WEBSITE
