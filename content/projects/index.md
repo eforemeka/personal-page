@@ -6,7 +6,7 @@ draft: false
 
 #### THE CLOUD RESUME CHALLENGE
 
-I took part in The Cloud Resume Challenge to build and host a copy of my [resume](https://resume.benny.com.ng) in the cloud using mostly Azure services. I wrote about it on medium and you can check it out [here](https://medium.com/@bennando/the-cloud-resume-challenge-with-azure-my-experience-f83695dcf77e).
+I took part in The Cloud Resume Challenge, where I built and hosted a copy of my [resume](https://resume.benny.com.ng) in the cloud using mostly Azure services. I wrote about it on medium and you can check it out [here](https://medium.com/@bennando/the-cloud-resume-challenge-with-azure-my-experience-f83695dcf77e).
 
 On this project, I used and learned about Azure Functions, Azure Cosmos DB, Azure Storage Account and GitHub Actions.
 
