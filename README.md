@@ -1,6 +1,6 @@
 # personal-page
 
-Previously, I had my personal website on Wordpress. However, I was dissatisfied with its slow loading time, particularly on my homepage. To address this issue, I began searching for alternatives, and in doing so, I discovered Hugo.
+Previously, I had built my personal website with Wordpress. However, I was dissatisfied with its slow loading time, particularly on my homepage. To address this issue, I began searching for alternatives, and in doing so, I discovered Hugo.
 
 Hugo is fast, quick to set up and easy use. You can learn more about how you too can use it [here] (https://gohugo.io/)
 
