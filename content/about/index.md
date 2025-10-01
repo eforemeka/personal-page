@@ -12,13 +12,12 @@ One of my standout qualities is my customer-centric approach. I have a genuine d
 
 #### WHAT CAN I OFFER?
 
-I possess well-honed abilities in conceptualizing and implementing enterprise solutions, consistently demonstrating my expertise in handling L3 support cases for both onsite and remote teams. Throughout my experience, I have remained dedicated to enhancing business processes and delivering top-notch end-user experiences. 
+I possess well-honed abilities in conceptualizing and implementing enterprise solutions, consistently demonstrating my expertise in handling L3 support cases for both onsite and remote teams. Throughout my experience, I have remained dedicated to enhancing business processes and delivering top-notch end-user experiences.
 
 <!-- #### WHAT DO I *CURRENTLY* SEEK?
 
 I desire to pivot a little from supporting end-users and on-prem infrastructure to building on my experience implementing, optimizing and supporting cloud-based infrastructure, products and solutions. If members of your team can work from anywhere in the world, I would like to be part of your team. I am open to Technical Support Engineer | Infrastructure Engineer | Cloud/DevOps Engineer roles in the EMEA zone. I am also open to discussing offers that come with relocation packages. -->
 
-
 You can check out my [resume](https://resume.benny.com.ng) here to know more about my professional experience.
 
-Email me: hi@benny.com.ng
+Email me: <emeka@benny.com.ng>
