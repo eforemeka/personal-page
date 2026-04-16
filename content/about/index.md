@@ -20,4 +20,4 @@ I desire to pivot a little from supporting end-users and on-prem infrastructure 
 
 You can check out my [resume](https://resume.benny.com.ng) here to know more about my professional experience.
 
-Email me: <emeka@benny.com.ng>
+Email me: <emeka@benny.com.ng> | <obinwaemekabenny@gmail.com>
