@@ -6,13 +6,15 @@ draft: false
 
 #### WHO AM I??
 
-Hello there! My name is Benny, and I bring over eight years of experience as a Technical Support Specialist and Project Manager. Throughout my career, I have developed strong skill sets in technical support, web development, IT infrastructure administration, and project management.
+Hello! My name is Benny, and I have over eight years of experience as a Technical Support Engineer and Systems Administrator. Throughout my career, I’ve built strong expertise in technical support, IT infrastructure management, and project coordination.
 
-One of my standout qualities is my customer-centric approach. I have a genuine desire to solve problems and enhance processes, always striving to provide the best support possible. I find great satisfaction in unraveling complex puzzles and demystifying technical challenges. This combination of traits, coupled with my technical expertise, positions me as an exceptional troubleshooter and problem-solver.
+I’m driven by a genuine passion for solving problems and improving processes, consistently aiming to deliver the highest level of support. I enjoy breaking down complex issues and making technical challenges easier to understand. Combined with my technical expertise, these qualities make me a strong and effective troubleshooter.
 
 #### WHAT CAN I OFFER?
 
-I possess well-honed abilities in conceptualizing and implementing enterprise solutions, consistently demonstrating my expertise in handling L3 support cases for both onsite and remote teams. Throughout my experience, I have remained dedicated to enhancing business processes and delivering top-notch end-user experiences.
+I deliver reliable, high-impact technical support backed by strong systems administration expertise. I excel at resolving complex L3 issues across distributed teams, ensuring minimal disruption and fast recovery.
+
+I also focus on building and implementing solutions that optimize infrastructure, improve operational efficiency, and elevate the end-user experience. My goal is always to turn technical challenges into measurable improvements for the business.
 
 <!-- #### WHAT DO I *CURRENTLY* SEEK?
 
