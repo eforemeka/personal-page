@@ -116,11 +116,11 @@
 # # weight = 2
 # # url = "https://gitlab.com/johndoe/"
 
-# [[params.social]]
-# name = "Twitter"
-# icon = "fa fa-2x fa-twitter"
-# weight = 3
-# url = "https://twitter.com/eforemeka/"
+# # [[params.social]]
+# # name = "Twitter"
+# # icon = "fa fa-2x fa-twitter"
+# # weight = 3
+# # url = "https://twitter.com/eforemeka/"
 
 # [[params.social]]
 # name = "LinkedIn"
@@ -128,17 +128,17 @@
 # weight = 4
 # url = "https://www.linkedin.com/in/benny-emeka/"
 
-# [[params.social]]
-# name = "Medium"
-# icon = "fa fa-2x fa-medium"
-# weight = 5
-# url = "https://medium.com/@bennando"
+# # [[params.social]]
+# # name = "Medium"
+# # icon = "fa fa-2x fa-medium"
+# # weight = 5
+# # url = "https://medium.com/@bennando"
 
 # [[params.social]]
 # name = "Email"
 # icon = "fa fa-2x fa-envelope"
 # weight = 5
-# url = "mailto:emeka@benny.com.ng"
+# url = "mailto:obinwamekabenny@gmail.com"
 
 # # [[params.social]]
 # # name = "RSS"
@@ -229,7 +229,7 @@ theme = "LoveIt"
 
 # website title
 # 网站标题
-title = "Emeka Benny Obinwa - Azure(2x) | M365"
+title = "Emeka Benny Obinwa"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -391,7 +391,7 @@ enableEmoji = true
           # title shown in home page (HTML format is supported)
           title = "Emeka Benny Obinwa - Azure(2x) | M365"
           # subtitle shown in home page
-          subtitle = "Technical Support | Microsoft 365 | Cloud/DevOps"
+          subtitle = "Technical Support Engineer | Systems Administrator"
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
