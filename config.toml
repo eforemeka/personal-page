@@ -1011,9 +1011,9 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/images/avatar.jpg"
+          # # avatarURL = "/images/avatar.jpg"
           # title shown in home page (HTML format is supported)
-          title = "Emeka Benny Obinwa - Azure(2x) | M365"
+          title = "Emeka Benny Obinwa"
           # subtitle shown in home page
           subtitle = "Technical Support | Microsoft 365 | Cloud/DevOps"
           # whether to use typeit animation for subtitle
@@ -1031,15 +1031,15 @@ enableEmoji = true
       [languages.de.params.social]
         GitHub = "https://github.com/eforemeka/"
         Linkedin = "https://www.linkedin.com/in/benny-emeka/"
-        Twitter = "https://twitter.com/eforemeka/"
+        Twitter = ""
         Instagram = ""
         Facebook = ""
         Telegram = ""
-        Medium = "https://medium.com/@bennando"
+        Medium = ""
         Gitlab = ""
         Youtubelegacy = ""
         Youtubecustom = ""
-        Youtubechannel = "https://www.youtube.com/channel/UCop38IPntuYs-qbXlfCnJng"
+        Youtubechannel = ""
         Tumblr = ""
         Quora = ""
         Keybase = ""
@@ -1090,7 +1090,7 @@ enableEmoji = true
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = "hi@benny.com.ng"
+        Email = "emeka@benny.com.ng"
         # RSS = true
         # [languages.en.params.social.Mastodon]
         #   id = "@xxxx"
