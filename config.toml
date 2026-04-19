@@ -466,7 +466,7 @@ enableEmoji = true
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = "hi@benny.com.ng"
+        Email = "emeka@benny.com.ng"
         # RSS = true
         # [languages.en.params.social.Mastodon]
         #   id = "@xxxx"
