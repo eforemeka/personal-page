@@ -111,6 +111,4 @@ ssh labuser@localhost
 ---
 
 ### Final Thoughts
-This week taught me that the "environment" matters just as much as the "commands." Distinguishing between a Docker backend and a full Linux OS was a vital first step in my journey toward system administration. 
-
-**Next Week:** Permissions, Ownership, and the Linux Security Model.
+This week taught me that the "environment" matters just as much as the "commands." Distinguishing between a Docker backend and a full Linux OS was a vital first step in my journey toward system administration.
