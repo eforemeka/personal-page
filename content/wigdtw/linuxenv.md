@@ -7,7 +7,10 @@ categories: ["IT Fundamentals"]
 showToc: true
 ---
 
-For the first project of my Linux journey, the goal was to "Build a Personal Linux Lab." While the prompt suggested a traditional VM, I opted for **WSL (Windows Subsystem for Linux)**. However, I immediately ran into a fascinating environment quirk that taught me my first real lesson in Linux distributions.
+
+## Task 1: Installing Ubuntu
+
+For this project, the goal was to "Build a Personal Linux Lab." While the instruction suggested a traditional or Cloud VM, I opted for **WSL (Windows Subsystem for Linux)**. However, I immediately ran into a fascinating environment quirk that taught me a very key lesson in Linux distributions.
 
 ---
 
@@ -26,29 +29,30 @@ cat /etc/os-release
 **The Lesson:** I wasn't in a full Ubuntu OS; I was inside Docker Desktop's internal utility backend! This is a common pitfall when Docker is installed on Windows. To fix this, I had to pivot to a dedicated instance.
 
 ### How I Resolved It:
-1. Opened Windows PowerShell.
-2. Ran `wsl -l -v` to list all installed distros.
+1. Opened Windows PowerShell. (You can also use Windows Command Prompt for this)
+2. Ran `wsl -l -v` to list all installed distros. Unfortunately, I had none installed.
 3. Installed a dedicated Ubuntu instance: `wsl --install -d Ubuntu`.
 4. Launched the correct environment: `wsl -d Ubuntu`.
 
 ---
 
-## Task 1: Navigation & System Literacy
+## Task 2: Navigating the Linux File System
 
-Once inside the correct Ubuntu environment, I practiced "Core System Literacy"—moving through the filesystem without a GUI.
+Once inside the correct Ubuntu environment, I practiced moving through the filesystem without a GUI.
 
 ```bash
 # Verify current location
 pwd
 
-# Create a project workspace
+# Create, navigate into, and delete a project workspace
 mkdir -p ~/linux_lab/week1
 cd ~/linux_lab/week1
+rm -r ~/linux_lab/week1
 ```
 
 ---
 
-## Task 2: File Operations & Text Editing
+## Task 3: File Operations & Text Editing
 
 Linux revolves around the concept that "everything is a file." I practiced creating metadata and editing content via the CLI.
 
@@ -64,7 +68,7 @@ nano first_entry.txt
 
 ---
 
-## Task 3: User Management & Security
+## Task 4: User Management & Security
 
 Operating as the `root` user is dangerous. I practiced creating a restricted user and granting them `sudo` privileges for specific administrative tasks.
 
@@ -80,7 +84,7 @@ sudo usermod -aG sudo labuser
 
 ---
 
-## Task 4: SSH Configuration (Remote Access)
+## Task 5: SSH Configuration (Remote Access)
 
 SSH (Secure Shell) is the industry standard for managing remote servers. I configured my lab to accept local SSH connections to simulate remote management.
 
@@ -111,4 +115,4 @@ ssh labuser@localhost
 ---
 
 ### Final Thoughts
-This week taught me that the "environment" matters just as much as the "commands." Distinguishing between a Docker backend and a full Linux OS was a vital first step in my journey toward system administration.
+This week taught me that the "environment" matters just as much as the "commands." Distinguishing between a Docker backend and a full Linux OS was a vital first step in my journey toward Linux system administration.
