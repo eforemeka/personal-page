@@ -10,6 +10,8 @@ I took part in The Cloud Resume Challenge, where I built and hosted a copy of my
 
 On this project, I used and learned about Azure Functions, Azure Cosmos DB, Azure Storage Account and GitHub Actions.
 
+_Edit: Ladies and gentlemen, this project is no longer live._
+
 #### THIS HUGO WEBSITE
 
 I initially built my personal website on Wordpress but I wasn't very satisfied with the speed with which it was serving up pages. I do not quite remember how I stumbled upon [Hugo](https://gohugo.io), but it was just what I needed to quickly build a website that wasn't just lightweight but also quick to load up pages over the internet.
