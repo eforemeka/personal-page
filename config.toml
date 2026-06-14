@@ -151,11 +151,11 @@
 # [languages.en]
 # languageName = ":uk:"
 
-# [[languages.en.menu.main]]
-# name = "Résumé"
-# weight = 1
-# url = "https://resume.benny.com.ng/"
-# target = "_blank"
+# # [[languages.en.menu.main]]
+# # name = "Résumé"
+# # weight = 1
+# # url = "https://resume.benny.com.ng/"
+# # target = "_blank"
 
 # [[languages.en.menu.main]]
 # name = "About"
