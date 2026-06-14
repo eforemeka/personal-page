@@ -1,22 +1,22 @@
 ---
-title: "Résumé"
+title:
 date: 2026-06-14
 draft: false
 layout: "resume"
 ---
 
-## EMEKA BENNY OBINWA
+#### EMEKA BENNY OBINWA
 **Technical Support Engineer | Systems Administrator**  
 Lagos, Nigeria | obinwaemekabenny@gmail.com | [www.benny.com.ng](https://www.benny.com.ng) | [LinkedIn](#)
 
 ---
 
-## PROFESSIONAL SUMMARY
+#### PROFESSIONAL SUMMARY
 Result-driven Technical Support Engineer and certified Systems Administrator with over a decade of IT experience, specializing in infrastructure management, and enterprise incident response within the pan-African financial sector. Proven track record of maintaining 99.99% availability for critical banking applications serving over 1,000 branches, automating core administrative workflows using Python and PowerShell, and managing complex infrastructure lifecycles. Adept at driving operational excellence while aligning enterprise systems with strict security and compliance frameworks.
 
 ---
 
-## TECHNICAL SKILLS
+#### TECHNICAL SKILLS
 
 * **Operating Systems & Infrastructure:** Windows Server Administration, Linux (RHEL/Ubuntu), Enterprise Systems Architecture, Pan-African Hub Deployment, Network & Firewall Security.
 * **Cloud & Virtualization:** Microsoft Azure, Oracle Cloud Infrastructure (OCI), Google Cloud Platform (GCP), AWS, Virtualization.
@@ -26,9 +26,9 @@ Result-driven Technical Support Engineer and certified Systems Administrator wit
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+#### PROFESSIONAL EXPERIENCE
 
-### UBA Group – Head Office, Lagos, Nigeria
+##### UBA Group – Head Office, Lagos, Nigeria
 **IT Support and Project Management – Africa** | *May 2022 – Date*
 
 **Key Duties and Accomplishments:**
@@ -45,14 +45,14 @@ Result-driven Technical Support Engineer and certified Systems Administrator wit
 * Designed and delivered comprehensive post-implementation training to 150+ end users, effectively cutting repetitive L1 ticket escalations by 25%.
 * Spearheaded automated workflows using Python and PowerShell for repetitive administration tasks, saving the team 10 manual hours per week and increasing resolution speeds by 30%.
 
-### Bureau for Rights-Based Development (BRD) – Remote
+##### Bureau for Rights-Based Development (BRD) – Remote
 **Technical Support Volunteer** | *June 2021 – December 2023*
 
 **Key Duties and Contributions:**
 * **M365 Cloud Administration:** Handled cloud-based collaboration environments, focusing on SharePoint Online administration.
 * **Web Infrastructure Management:** Revamped the organization’s public-facing website, deploying responsive web design principles and search engine optimization to boost website traffic by 40% and online donations by 25%.
 
-### International Energy Services Limited – Lagos, Nigeria
+##### International Energy Services Limited – Lagos, Nigeria
 **IT Administrator** | *January 2019 – September 2021*  
 **IT Support Engineer** | *June 2015 - October 2017*
 
@@ -65,7 +65,7 @@ Result-driven Technical Support Engineer and certified Systems Administrator wit
 
 ---
 
-## CERTIFICATIONS
+#### CERTIFICATIONS
 
 **Cloud & Infrastructure:**
 * Oracle Cloud Infrastructure 2023 Certified Multicloud Architect Associate *(September 2023)*
@@ -81,7 +81,7 @@ Result-driven Technical Support Engineer and certified Systems Administrator wit
 
 ---
 
-## EDUCATION
+#### EDUCATION
 
 **Bachelor of Engineering (B.Eng.) in Information and Communication Engineering**  
 Covenant University - Ota, Ogun State | *September 2008 - July 2013*
