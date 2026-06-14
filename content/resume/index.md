@@ -5,7 +5,7 @@ draft: false
 layout: "resume"
 ---
 
-# EMEKA BENNY OBINWA
+## EMEKA BENNY OBINWA
 **Technical Support Engineer | Systems Administrator**  
 Lagos, Nigeria | obinwaemekabenny@gmail.com | [www.benny.com.ng](https://www.benny.com.ng) | [LinkedIn](#)
 
@@ -85,3 +85,8 @@ Result-driven Technical Support Engineer and certified Systems Administrator wit
 
 **Bachelor of Engineering (B.Eng.) in Information and Communication Engineering**  
 Covenant University - Ota, Ogun State | *September 2008 - July 2013*
+
+---
+
+#### 📥 Download 
+[Click here to download a PDF copy of my Résumé](/docs/Emeka_Benny_Obinwa_Resume_June_2026.pdf)

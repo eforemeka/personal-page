@@ -20,6 +20,6 @@ I also focus on building and implementing solutions that optimize infrastructure
 
 I desire to pivot a little from supporting end-users and on-prem infrastructure to building on my experience implementing, optimizing and supporting cloud-based infrastructure, products and solutions. If members of your team can work from anywhere in the world, I would like to be part of your team. I am open to Technical Support Engineer | Infrastructure Engineer | Cloud/DevOps Engineer roles in the EMEA zone. I am also open to discussing offers that come with relocation packages. -->
 
-You can check out my [resume](https://resume.benny.com.ng) here to know more about my professional experience.
+You can check out my [resume](https://www.benny.com.ng/resume/) here to know more about my professional experience.
 
 Email me: <emeka@benny.com.ng> | <obinwaemekabenny@gmail.com>
