@@ -303,14 +303,14 @@ enableEmoji = true
         weight = 1
 
       [[languages.en.menu.main]]
-        identifier = "résumé"
-        pre = ""
-        post = ""
-        name = "Résumé"
-        url = "https://resume.benny.com.ng/"
-        title = ""
-        target = "_blank"
-        weight = 2
+      #  identifier = "résumé"
+      #  pre = ""
+      #  post = ""
+      #  name = "Résumé"
+      #  url = "https://resume.benny.com.ng/"
+      #  title = ""
+      #  target = "_blank"
+      #  weight = 2
 
       [[languages.en.menu.main]]
         identifier = "projects"
@@ -927,14 +927,14 @@ enableEmoji = true
         weight = 1
 
       [[languages.de.menu.main]]
-        identifier = "résumé"
-        pre = ""
-        post = ""
-        name = "Résumé"
-        url = "https://resume.benny.com.ng/"
-        title = ""
-        target = "_blank"
-        weight = 2
+      #  identifier = "résumé"
+      #  pre = ""
+      #  post = ""
+      #  name = "Résumé"
+      #  url = "https://resume.benny.com.ng/"
+      #  title = ""
+      #  target = "_blank"
+      #  weight = 2
 
       [[languages.de.menu.main]]
         identifier = "projects"
